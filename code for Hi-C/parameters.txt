@@ -1,0 +1,14 @@
+###############################################
+# 此文件用来提供分析需要的各种参数，如比对基因组索引，比对文件存储路径等等
+# modified by Li 20150528
+##############################################i
+
+#GENOME,要比对的基因组索引
+/lustre/user/liclab/publicData/reference/Homo_sapiens/UCSC/hg19/Sequence/Bowtie2Index/genome
+#fastq filepath：要比对的fastq文件的存储路径
+/lustre/user/liclab/lirf/Project/renmin-chang/p3/hic/H4
+..
+#chromosome1
+1
+##chromosome2
+1
